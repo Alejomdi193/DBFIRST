@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APT01-44\\Desktop\\dbfirst\\produccion\\produccion.csproj": {}
+    "/Users/alejandromunoz/Desktop/DBFIRST/produccion/produccion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APT01-44\\Desktop\\dbfirst\\produccion\\produccion.csproj": {
+    "/Users/alejandromunoz/Desktop/DBFIRST/produccion/produccion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APT01-44\\Desktop\\dbfirst\\produccion\\produccion.csproj",
+        "projectUniqueName": "/Users/alejandromunoz/Desktop/DBFIRST/produccion/produccion.csproj",
         "projectName": "produccion",
-        "projectPath": "C:\\Users\\APT01-44\\Desktop\\dbfirst\\produccion\\produccion.csproj",
-        "packagesPath": "C:\\Users\\APT01-44\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APT01-44\\Desktop\\dbfirst\\produccion\\obj\\",
+        "projectPath": "/Users/alejandromunoz/Desktop/DBFIRST/produccion/produccion.csproj",
+        "packagesPath": "/Users/alejandromunoz/.nuget/packages/",
+        "outputPath": "/Users/alejandromunoz/Desktop/DBFIRST/produccion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APT01-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/alejandromunoz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     }
